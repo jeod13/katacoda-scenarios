@@ -1,0 +1,12 @@
+{
+    "title": "course for sales and marketing team ",
+    "description": "Available Katacoda Environments",
+    "icon": "fa-katacoda",
+    "courses": [
+      {
+        "course_id": "test2",
+        "title": "test2 Instance",
+        "description": "test2 environment"
+      }
+    ]
+  }
