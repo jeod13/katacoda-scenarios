@@ -1,0 +1,12 @@
+{
+    "title": "course for development operation team ",
+    "description": "Available Katacoda Environments",
+    "icon": "fa-katacoda",
+    "courses": [
+      {
+        "course_id": "test1",
+        "title": "test1 Instance",
+        "description": "test1 environment"
+      }
+    ]
+  }
