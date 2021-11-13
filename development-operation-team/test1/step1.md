@@ -33,7 +33,7 @@ tap the + next to the terminal and select port to view on Host1-->Enter port 808
 
 Setup wordpress
 	Site Title: a
-	Username: WordPressTesting
-	Password: Wo@rd_Press!Testing
+	Username: `WordPressTesting`{{copy}}
+	Password: `Wo@rd_Press!Testing`{{copy}}
 	email: a@a.com
 
