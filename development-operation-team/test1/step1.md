@@ -36,4 +36,5 @@ Setup wordpress
 	Username: `WordPressTesting`{{copy}}
 	Password: `Wo@rd_Press!Testing`{{copy}}
 	email: a@a.com
-
+	
+# Download plugin for wordpress
