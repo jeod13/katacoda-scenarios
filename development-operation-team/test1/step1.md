@@ -27,7 +27,8 @@ email: a@a.com<br /><br />
 5. In the left sidebar click plugin and activate the installed plugin
 6. Enable HTTP Strict Transport Security (HSTS)
 7. Save Change
-8. click the Test site's SSL certificate to test
+8. click the Test site's SSL certificate to test<br />
+# Effect of the plugin
 Your website is more secure, all the traffic will be encryted using SSL. <br />
 And it will enforce user to access your website using HTTPS to prevent user to use a unencryted connection.<br />
 So it will maintain the privacy and integrity of customer data.
