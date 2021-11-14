@@ -41,3 +41,10 @@ If Confirmation request initiated successfully, the request will be shown in bel
 Once the User has confirmed the request by clicking on the link, the Status will be updated to Confirmed.<br /><br />
 Can click email data button in Export Personal Data page, it will export the personal data to user through Email. <br /><br />
 User is able to download the zip file through the link in the Email.<br /><br />
+
+#Purpose of this scenario
+It address various data subject rights in GDPR as shown below:<br />
+The right of access<br />
+The right to erasure<br />
+The right to data portability (Should be included in the privacy statement)<br />
+
