@@ -17,7 +17,7 @@ shell. <br />
 
 Start the mysql client inside the container you have started<br />
 `mysql -u root -p`{{execute}}<br />
-Use the password somewordpress to login
+Use the password `somewordpress`{{execute}} to login
 
 Select the wordpress database<br />
 `use wordpress`{{execute}}
