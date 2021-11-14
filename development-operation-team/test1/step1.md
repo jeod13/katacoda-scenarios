@@ -4,7 +4,7 @@ execute the following command to clone the repository<br />
 
 # Start the docker stack
 run the following command<br />
-`cd wordpress`{{execute}}
+`cd wordpress`{{execute}}<br />
 `docker-compose up`{{execute}}
 
 # Start setup wordpress
