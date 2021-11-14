@@ -44,7 +44,7 @@ GDPR Cookie Consent --> Policy generator<br /><br />
 
 you can add new policy to explain how you will use the cookie, type of cookie is used etc.<br />
 
-# generate a overal
+# generate a privacy overview
 GDPR Cookie Consent --> Privacy overview<br /><br />
 
 you can create a privacy overview to show the purpose of the cookies when user access the webpage.<br /> 
