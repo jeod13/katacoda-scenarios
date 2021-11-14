@@ -23,11 +23,16 @@ email: a@a.com<br /><br />
 2. click the Add New next to the Plugins on the top left side of the page
 3. Search plugins with the following keyword<br />
 `WP Force SSL & HTTPS Redirect`{{copy}}<br />
+![alt text](https://github.com/jeod13/katacoda-scenarios/blob/main/development-operation-team/test1/ssl_https_img/1.png)
 4. click install Now
 5. In the left sidebar click plugin and activate the installed plugin
+![alt text](https://github.com/jeod13/katacoda-scenarios/blob/main/development-operation-team/test1/ssl_https_img/2.png)
 6. Enable HTTP Strict Transport Security (HSTS)
+![alt text](https://github.com/jeod13/katacoda-scenarios/blob/main/development-operation-team/test1/ssl_https_img/3.png)
 7. Save Change
 8. click the Test site's SSL certificate to test<br />
+Sample result:
+![alt text](https://github.com/jeod13/katacoda-scenarios/blob/main/development-operation-team/test1/ssl_https_img/4.png)
 # Effect of the plugin
 Your website is more secure, all the traffic will be encryted using SSL. <br />
 And it will enforce user to access your website using HTTPS to prevent user to use a unencryted connection.<br />
