@@ -28,7 +28,7 @@ email: a@a.com<br /><br />
 5. In the left sidebar click plugin and activate the plugin that you have installed<br />
 
 # Create a Backup task
-click BackWPup that show in the left sidebar of the wordpress --> Add new job<br />
+click BackWPup that show in the left sidebar of the wordpress --> Add new job<br /><br />
 In general tab <br />
 you can tick different option to select the task to be include. <br />
 For example database backup, file backup, wordpress XML export, installed plugins list and check database tables.<br />
@@ -51,9 +51,9 @@ click BackWPup that show in the left sidebar of the wordpress-->Backup--->Downlo
 # (Recommended) encryted the backup using BakcWPup pro
 BackWPup Pro → Settings and then select the Encryption tab<br />
 
-select the asymmetric method, BackWPup generates an RSA key pair. <br />
-Both keys will be offered to you for download. <br />
-download the private key at least. Next, click Use these keys<br />
+select the asymmetric method, BackWPup generates an RSA key pair. <br /><br />
+Both keys will be offered to you for download. <br /><br />
+download the private key at least. Next, click Use these keys<br /><br />
 
 tick Encrypt Archive when you created/ammend you task to encrypt backup during creation<br />
 
