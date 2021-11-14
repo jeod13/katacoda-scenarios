@@ -7,6 +7,11 @@
         "course_id": "test1",
         "title": "Configure SSL and HTTPS setting",
         "description": "Configure SSL and HTTPS setting"
+      },
+      {
+        "course_id": "task2".
+        "title": "Fufill GDPR requirement"
+        "description": "Fufill GDPR requirement"
       }
     ]
   }
