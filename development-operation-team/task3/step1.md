@@ -28,24 +28,24 @@ email: a@a.com<br /><br />
 5. In the left sidebar click plugin and activate the plugin that you have installed<br />
 
 # Create Cookie list
-GDPR Cookie Consent --> Cookie List<br /><br />
+From the left sidebar go to GDPR Cookie Consent --> Cookie List<br /><br />
 
 you can click the add cookie to create a new cookie.<br />
 You can specify the title, description, cookie Category, Cookie type, cookie duration, cookie sensitivity etc of the cookie that you created.<br />
 
 # Show cookie group by category
-GDPR Cookie Consent --> Cookie category<br /><br />
+From the left sidebar go to GDPR Cookie Consent --> Cookie category<br /><br />
 
 It show all the cookies in your website based on category <br />
 such as Advertisement cookies, Analytics cookies, Functional cookies, Necessary cookies etc<br />
 
 # generate policy of cookie.
-GDPR Cookie Consent --> Policy generator<br /><br />
+From the left sidebar go to GDPR Cookie Consent --> Policy generator<br /><br />
 
 you can add new policy to explain how you will use the cookie, type of cookie is used etc.<br />
 
 # generate a privacy overview
-GDPR Cookie Consent --> Privacy overview<br /><br />
+From the left sidebar go to GDPR Cookie Consent --> Privacy overview<br /><br />
 
 you can create a privacy overview to show the purpose of the cookies when user access the webpage.<br /> 
 So users may decide whether they accepted the cookies based on the privacy overview.<br /> 
