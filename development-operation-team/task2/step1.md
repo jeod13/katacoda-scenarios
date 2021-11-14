@@ -27,17 +27,17 @@ You are encourage to amend the privacy statdment to complete the privacy stateme
 From the left sidebar go to Tools --> Erase Personal Data<br /><br />
 
 website users can request to erase their personal data. <br />
-The Wordpress admin can type the username or the email address here to send request to user to remove their personal data.
-send request<br />
-After send request it will enter Pending status. An email is automatically sent to the user and they must click on the link in the email to confirm the data erasure.<br />
+The Wordpress admin can type the username or the email address here to send request to user to remove their personal data.<br /><br />
+
+After send request it will enter Pending status. An email is automatically sent to the user and they must click on the link in the email to confirm the data erasure.<br /><br />
  
-Once the User has confirmed the request by clicking on the link, the Status will be updated to Confirmed. The user will see a thank you message confirming the erasure request. <br />
+Once the User has confirmed the request by clicking on the link, the Status will be updated to Confirmed. The user will see a thank you message confirming the erasure request. <br /><br />
 To erase data for a confirmed user, simply look in the Next Steps column for that user and click on Erase Personal Data.<br />
 
 # Export Personal Data
 From the left sidebar go to Tools --> Export Personal Data<br />
-Specify Username or email address and click Send Request.<br />
-If Confirmation request initiated successfully, the request will be shown in below Requester Table and Status will be changed to Pending.<br />
-Once the User has confirmed the request by clicking on the link, the Status will be updated to Confirmed.<br />
-Can click email data button, it will export the personal data to user through Email. <br />
-User is able to download the zip file through the link in the Email.<br />
+Specify Username or email address and click Send Request.<br /><br />
+If Confirmation request initiated successfully, the request will be shown in below Requester Table and Status will be changed to Pending.<br /><br />
+Once the User has confirmed the request by clicking on the link, the Status will be updated to Confirmed.<br /><br />
+Can click email data button, it will export the personal data to user through Email. <br /><br />
+User is able to download the zip file through the link in the Email.<br /><br />
