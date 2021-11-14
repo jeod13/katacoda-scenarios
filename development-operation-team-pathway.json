@@ -12,6 +12,11 @@
         "course_id": "task2",
         "title": "Fulfill GDPR requirement",
         "description": "Fulfill GDPR requirement"
+      },
+      {
+        "course_id": "task3",
+        "title": "cookie consent management",
+        "description": "cookie consent management"
       }
     ]
   }
