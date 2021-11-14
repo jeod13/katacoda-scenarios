@@ -10,12 +10,11 @@ run the following command<br />
 # Start setup wordpress
 tap the + next to the terminal and select port to view on Host1-->Enter port 8080
 
-Setup wordpress<br />
-	select language<br /><br />
-	Site Title: a<br />
-	Username: `WordPressTesting`{{copy}}<br />
-	Password: `Wo@rd_Press!Testing`{{copy}}<br />
-	email: a@a.com<br /><br />
-	Login with the created account
+select language<br /><br />
+Site Title: a<br />
+Username: `WordPressTesting`{{copy}}<br />
+Password: `Wo@rd_Press!Testing`{{copy}}<br />
+email: a@a.com<br /><br />
+Login with the created account
 	
 # Download plugin for wordpress
