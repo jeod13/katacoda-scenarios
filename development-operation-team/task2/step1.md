@@ -39,5 +39,5 @@ From the left sidebar go to Tools --> Export Personal Data<br />
 Specify Username or email address and click Send Request.<br /><br />
 If Confirmation request initiated successfully, the request will be shown in below Requester Table and Status will be changed to Pending.<br /><br />
 Once the User has confirmed the request by clicking on the link, the Status will be updated to Confirmed.<br /><br />
-Can click email data button, it will export the personal data to user through Email. <br /><br />
+Can click email data button in Export Personal Data page, it will export the personal data to user through Email. <br /><br />
 User is able to download the zip file through the link in the Email.<br /><br />
