@@ -23,7 +23,7 @@ From the left sidebar go to Setting--> Privacy<br />
 There will have a uncompleted sample privacy statement by default. <br />
 You are encourage to amend the privacy statdment to complete the privacy statement to show how you website duel with the user's data.<br />
 
-# Erase personal statment
+# Erase personal statement
 From the left sidebar go to Tools --> Erase Personal Data<br /><br />
 
 website users can request to erase their personal data. <br />
