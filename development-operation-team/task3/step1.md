@@ -48,5 +48,7 @@ you can add new policy to explain how you will use the cookie, type of cookie is
 GDPR Cookie Consent --> Privacy overview<br /><br />
 
 you can create a privacy overview to show the purpose of the cookies when user access the webpage.<br /> 
-So users may decide whether they accepted the cookies based on the privacy overview.
+So users may decide whether they accepted the cookies based on the privacy overview.<br /> 
 
+# Purpose of this scenario
+To fulfill The General Data Protection Regulation (GDPR) requirement, website should ask for and obtain the clear and affirmative consents from users before processing any of their data.<br />  This scenario aims to teach the way to ask for consent using plugin in WordPress and teach developers need to clearly state the ways they use the user’s data. 
