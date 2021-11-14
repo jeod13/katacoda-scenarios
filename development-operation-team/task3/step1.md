@@ -51,4 +51,4 @@ you can create a privacy overview to show the purpose of the cookies when user a
 So users may decide whether they accepted the cookies based on the privacy overview.<br /> 
 
 # Purpose of this scenario
-To fulfill The General Data Protection Regulation (GDPR) requirement, website should ask for and obtain the clear and affirmative consents from users before processing any of their data.<br />  This scenario aims to teach the way to ask for consent using plugin in WordPress and teach developers need to clearly state the ways they use the user’s data. 
+To fulfill The General Data Protection Regulation (GDPR) requirement, website should ask for and obtain the clear and affirmative consents from users before processing any of their data.<br /> <br />  This scenario aims to teach the way to ask for consent using plugin in WordPress and teach developers need to clearly state the ways they use the user’s data. 
