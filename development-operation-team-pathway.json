@@ -27,6 +27,11 @@
         "course_id": "task5",
         "title": "update plugin",
         "description": "update plugin"
+      },
+      {
+        "course_id": "task6",
+        "title": "setup 2-factor authentication",
+        "description": "setup 2-factor authentication"
       }
     ]
   }
