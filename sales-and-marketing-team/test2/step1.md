@@ -40,4 +40,9 @@ like this:<br /><br />
 
 Quag#mireTCOMP33&35mutsuskashii<br /><br />
 
+# The sentence method
+This method is also described as the "Bruce Schneier Method." The idea is to think of a random sentence and transform it into a password using a rule. For example, taking the first two letters of every word in “The Old Duke is my favorite pub in South London” would give you:<br /><br />
 
+ThOlDuismyfapuinSoLo<br /><br />
+
+To anyone else, it’s gobbledygook, but to you it makes perfect sense. Make sure the sentence you choose is as personal and unguessable as possible.
