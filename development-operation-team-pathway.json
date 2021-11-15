@@ -37,6 +37,11 @@
         "course_id": "task7",
         "title": "set least privilege to your staff account",
         "description": "set least privilege to your staff account"
+      },
+      {
+        "course_id": "task8",
+        "title": "centralized logging and alerting",
+        "description": "centralized logging and alerting"  
       }
     ]
   }
