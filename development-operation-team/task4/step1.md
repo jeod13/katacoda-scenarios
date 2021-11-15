@@ -58,6 +58,9 @@ download the private key at least. Next, click Use these keys<br /><br />
 tick Encrypt Archive when you created/ammend you task to encrypt backup during creation<br />
 
 # Benefit of backup with encrytion
+It support backup periodically in a specific time. so you just need to define the detail of the backup task once, it will automatically run many times.<br />
+So it reduce the chance of human error and ensure all the things is backup in a secure procedure.<br />
+
 it support encryted the backup file using asymmetrical procedure which uses the RSA algorithm and the AES procedure. <br /><br />
 It store data in a safer environment as only you own the private RSA key which can maintain the integrity and confidentiality of data.<br /><br />
 It also responce to the GDPR requirement to protect backup that include customer/user's private data. <br /><br />
