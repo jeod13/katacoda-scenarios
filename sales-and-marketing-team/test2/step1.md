@@ -49,3 +49,5 @@ This method is also described as the "Bruce Schneier Method." The idea is to thi
 ThOlDuismyfapuinSoLo<br /><br />
 
 To anyone else, it’s gobbledygook, but to you it makes perfect sense. Make sure the sentence you choose is as personal and unguessable as possible.
+# Remember password is just a small pieces in Security, you should be consider security awareness in anytime.
+For example, Logout Wordpress after you have done your job to prevent others can use your accounts to do anything.
