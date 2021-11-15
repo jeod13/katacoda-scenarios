@@ -42,7 +42,7 @@ After you confirmed all thins work together well, you can backup the website and
 
 A plugin update may include new features, fix issurs, improve security. <br /><br />
 you are recommended to keep all of the plugins in their latest version.<br /><br />
-For example, Woocommerce discover that Woocommerce plugin is vulnerable to a critical SQL injection vulnerability. And Woocommerce update a patch to fix the problem.<br />
+For example, Woocommerce discover that Woocommerce plugin is vulnerable to a critical SQL injection vulnerability in July 2021. And Woocommerce update a patch to fix the problem.<br />
 
 If you do not update the plugin frequently,it may suffer from security problem. And the customer/user's personal data that store on Wordpress may hacked by hacker which reduce the confidentiality of user's personal data.<br /><br />
 So, You are highly recommended to update the plugin once there is a latest version
