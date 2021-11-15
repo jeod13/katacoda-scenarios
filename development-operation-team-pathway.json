@@ -22,6 +22,11 @@
         "course_id": "task4",
         "title": "backup with encryption",
         "description": "backup with encryption"
+      },
+      {
+        "course_id": "task5",
+        "title": "update plugin",
+        "description": "update plugin"
       }
     ]
   }
