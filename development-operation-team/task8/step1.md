@@ -22,6 +22,14 @@ email: a@a.com<br /><br />
 1. In the left sidebar click plugin
 2. click the Add New next to the Plugins on the top left side of the page
 3. Search plugins with the following keyword<br />
+`Woocommerce`{{copy}}<br />
+4. click install Now<br />
+5. In the left sidebar click plugin and activate the plugin that you have installed<br />
+
+# Download plugin for wordpress
+1. In the left sidebar click plugin
+2. click the Add New next to the Plugins on the top left side of the page
+3. Search plugins with the following keyword<br />
 `WP Activity Log`{{copy}}<br />
 4. click install Now<br />
 5. In the left sidebar click plugin and activate the plugin that you have installed<br />
