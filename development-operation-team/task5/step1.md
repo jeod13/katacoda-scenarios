@@ -34,13 +34,13 @@ In the left sidebar click plugin and select the plugin and click enable auto-upd
 method 2: update manually<br />
 if you worry about the compatibility with other plugins, <br />
 you can try to install the latest plugin in your local environment to test the compatibility with other plugins.<br /><br />
-After you confirmed all thins work together well, you can backup the website and try to patch your website.<br />
+After you confirmed all things work together well, you can backup the website and try to patch your website.<br />
 
 # Remember to backup all the data before update any plugin
 <br /><br />
 # Benefit of update the plugin
 
-A plugin update may include new features, fix issurs, improve security. <br /><br />
+A plugin update may include new features, fix issues, improve security. <br /><br />
 you are recommended to keep all of the plugins in their latest version.<br /><br />
 For example, Woocommerce discover that Woocommerce plugin is vulnerable to a critical SQL injection vulnerability in July 2021. And Woocommerce update a patch to fix the problem.<br />
 
