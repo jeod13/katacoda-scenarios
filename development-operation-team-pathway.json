@@ -32,6 +32,11 @@
         "course_id": "task6",
         "title": "setup 2-factor authentication",
         "description": "setup 2-factor authentication"
+      },
+      {
+        "course_id": "task7",
+        "title": "configure strong authentication",
+        "description": "configure strong authentication"
       }
     ]
   }
