@@ -45,4 +45,4 @@ you are recommended to keep all of the plugins in their latest version.<br /><br
 For example, Woocommerce discover that Woocommerce plugin is vulnerable to a critical SQL injection vulnerability in July 2021. And Woocommerce update a patch to fix the problem.<br />
 
 If you do not update the plugin frequently,it may suffer from security problem. And the customer/user's personal data that store on Wordpress may hacked by hacker which reduce the confidentiality of user's personal data.<br /><br />
-So, You are highly recommended to update the plugin once there is a latest version
+According to the GDPR,you are responsible to stored customer/user's personal data in a protected environment.<br /> So, You are highly recommended to update the plugin once there is a latest version
