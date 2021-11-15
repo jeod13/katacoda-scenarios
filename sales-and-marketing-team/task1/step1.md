@@ -5,4 +5,4 @@ It may also lead to other problems as the USB only contain the data before expor
 
 #  handle customer data securely
 sales or marketing team may request operation team to export the customer data to the CRM they used.<br /><br />
-when sales or marketing team try to access the customer data on Wordpress or WooCommerce at home, they could first use vpn to connect to the office computer and access the data and use CRM. It can prevent sales or marketing team leak the sensitive data while they are work at home. As their computers at home may not a secure environment.
+when sales or marketing team try to access the customer data on Wordpress or WooCommerce at home, they could first use vpn to connect to the office computer and access the data and CRM using office computer. It can prevent sales or marketing team leak the sensitive data while they are work at home. As their computers at home may not a secure environment.
