@@ -19,6 +19,9 @@ If the strength your password is 'strong', congratulations you can directly use 
 
 If the strength your password is below 'strong', lets have a look on how to create a strong password as shown below.<br /><br />
 
+# Importance of Password
+Your passwords grant access into your own account with different privileges, so you are probably thinking 'what are the best practices to create a strong password' to protect your accounts against these cybercriminals. If your passwords were part of a data breach, you will want to change them immediately.
+
 # The most common way to set a strong password
 1.  Make it long.<br />
 This is the most critical factor. Choose nothing shorter than 15 characters, more if possible.<br />
