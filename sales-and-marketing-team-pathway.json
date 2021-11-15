@@ -7,6 +7,11 @@
         "course_id": "test2",
         "title": "The way to set a strong password in WordPress",
         "description": ""
+      },
+      { 
+        "course_id": "task1",
+        "title": "The way to handle customer’s data",
+        "description": ""
       }
     ]
   }
